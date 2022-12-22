@@ -1,0 +1,166 @@
+Green Seawolves
+    ArchonArchov
+        Sentinels Embrace
+        Void Stone
+        Evolved Gauntlet of Thebes
+        Mystical Mail
+        Genjis Guard
+        Mantle of Discord
+        20935 10 5 20 271 74751 32049
+    AvrahKaMagic
+        Bluestone Pendant
+        Evolved Transcendence
+        Titans Bane
+        Jotunns Wrath
+        The Crusher
+        Hydras Lament
+        17491 2 8 14 1975 96444 24784
+    Bawwwwcas
+        Pendulum of Ages
+        Doom Orb
+        Charons Coin
+        Soul Gem
+        Spear of Desolation
+        Rod of Tahuti
+        20448 10 7 11 2016 153943 40171
+    PonPonMeowMeow
+        Rod of Tahuti
+        Spear of Desolation
+        Doom Orb
+        Evolved Book of Thoth
+        Polynomicon
+        Evolved Warlocks Staff
+        23779 17 4 15 3358 196313 56929
+    Rdy2Rumble
+        Manikin Hidden Blade
+        Brawlers Beat Stick
+        Evolved Transcendence
+        Jotuns Wrath
+        Heartseeker
+        Arondight
+        18379 9 21 7 3559 73739 45480
+Fighting Comets
+    DryBot
+        Sentinels Boon
+        Shoes of Focus
+        Evolved Gauntlet of Thebes
+        Relic Dagger
+        Pridwen
+        Winged Blade
+        18637 2 5 18 291 53165 23449
+    ChikoSanSan
+        Deaths Embrace
+        Evolved Transcendence
+        Qins Sais
+        Jotunns Wrath
+        Executioner
+        Fail not
+        20666 13 14 4 2051 148625 32737
+    AngryHats
+        Sacrificial Shroud
+        Rod of Tahuti
+        Polynomicon
+        Ring of Hecate
+        Telkhines Ring
+        Spear of the Magus
+        19243 5 13 4 2674 145441 20429
+    ConquestSmasher
+        Deathbringer
+        Golden Blade
+        Wind Demon
+        Hastened Katana
+        Rage
+        Asi
+        19597 6 13 9 1314 121259 14958
+    HappyAshley
+        Corrupted Bluestone
+        Brawlers Beat Stick
+        Gladiators Shield
+        Stone of Gea
+        Blackthorn Hammer
+        Evolved Hide of the Urchin
+        24178 17 3 9 2406 137411 41788
+41
+Running Demons
+    ChikoSanSan
+        Sentinels Embrace
+        Warrior Tabi
+        Jotunns Wrath
+        Heartseeker
+        Contagion
+        Brawlers Beat Stick
+        16780 11 3 22 569 50648 16311
+    TBrownTakeUDown
+        Pendulum of Ages
+        Doom Orb
+        Shoes of Focus
+        Gem of Isolation
+        Charons Coin
+        Restored Artifact
+        17481 15 4 16 1872 110196 24776
+    AngryHats
+        Archmages Gem
+        Chronos Pendant
+        Shoes of Focus
+        Rod of Tahuti
+        Spear of Desolation
+        Spear of the Magus
+        16800 11 4 22 4633 95777 29005
+    Rdy2Rumble
+        Protector of the Jungle
+        Warrior Tabi
+        Jotunns Wrath
+        Heartseeker
+        Contagion
+        Brawlers Beat Stick
+        16260 11 11 13 0 69819 25762
+    RabidWombats
+        Conduit Gem
+        Evolved Book of Thoth
+        Shoes of Focus
+        Gem of Isolation
+        Charons Coin
+        Restored Artifact
+        14908 2 6 9 1228 89822 12701
+Grotesque Trolls
+    ArchonArchov
+        Sentinels Gift
+        Evolved Gauntlet of Thebes
+        Shoes of Focus
+        Genjis Guard
+        Contagion
+        Mantle of Discord
+        12406 2 7 7 27 19806 5078
+    1337Strats
+        Deaths Toll
+        Ichaival
+        Warrior Tabi
+        Frostbound Hammer
+        Berserkers Shield
+        Dominance
+        13229 5 11 1 165 105811 8173
+    MrLongbro
+        Sands of Time
+        Chronos Pendant
+        Shoes of Focus
+        Gem of Isolation
+        Spear of Desolation
+        Rod of Tahuti
+        15068 6 12 6 469 81985 19515
+    GankMastahFresh
+        Bumbas Hammer
+        Jotunns Wrath
+        Warrior Tabi
+        Arondight
+        Heartseeker
+        Dominance
+        15269 5 11 7 0 84527 13812
+    FightingFishrman
+        Deaths Embrace
+        Ichaival
+        Warrior Tabi
+        Frostbound Hammer
+        Berserkers Shield
+        Ancile
+        15059 9 9 4 754 116838 20051
+30
